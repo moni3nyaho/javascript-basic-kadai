@@ -1,4 +1,4 @@
 const squaring = (num) => {
-  console.log(num*num);
+return num * num;
 }
-squaring(10);
+console.log(squaring(10));
